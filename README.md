@@ -4,6 +4,8 @@
 This project simulates an **IoT-enabled keypad-based smart lock system** using **Arduino Uno**, **C++**, and **Tinkercad**. It allows users to input a secure password through a 4x4 keypad and unlocks the door using a **servo motor**. For enhanced user interaction and security, it includes an **LCD Display** for real-time status updates and a **Piezo Buzzer** for audio feedback. The system also features **security lockouts** to deter unauthorized access attempts.
 
 ---
+![System Circuit Diagram](assets/circuit-diagram.jpg)
+
 
 ## ✨ Features
 - 🔢 **Password Input**: Secure 4-digit password input via a 4x4 keypad.
