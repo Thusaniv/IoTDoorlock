@@ -55,7 +55,8 @@ This project simulates an **IoT-enabled keypad-based smart lock system** using *
    After powering up, the LCD will prompt you to enter the password.
 
 4. **Authenticate**  
-   - Enter the correct password to unlock the door.
+   - Enter the correct password to unlock the door.  
+   - Once the door is unlocked, press `#` on the keypad to re-lock it manually.  
    - Incorrect passwords trigger the buzzer and display warnings.
 
 5. **Lockout Logic**  
