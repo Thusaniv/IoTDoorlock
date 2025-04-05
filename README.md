@@ -73,7 +73,4 @@ Find the full source code, schematic diagram, and simulation file here:
 
 ---
 
-## 📥 Installation
-```bash
-git clone https://github.com/your-username/keypad-door-lock
-cd keypad-door-lock
+
