@@ -13,7 +13,7 @@ LiquidCrystal lcd(A0, A1, A2, A3, A4, A5);
 
 int pos = 0;
 char Data[Password_Length];
-char Master[Password_Length] = "123456";
+char Master[Password_Length] = "-------";
 byte data_count = 0;
 char customKey;
 
