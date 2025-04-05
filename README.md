@@ -69,7 +69,7 @@ This project simulates an **IoT-enabled keypad-based smart lock system** using *
 
 ## 📂 GitHub Repository
 Find the full source code, schematic diagram, and simulation file here:  
-🔗 [GitHub Repository](https://github.com/your-username/keypad-door-lock)
+🔗 [GitHub Repository](https://github.com/Thusaniv/IoTDoorlock/)
 
 ---
 
